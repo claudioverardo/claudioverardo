@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am research assistant in Neural Engineering :brain::computer:. I hold a MSc and BSc in Electronic Engineering from the University of Udine, Italy, where I was also part of the excellence program "Scuola Superiore".
+I am a PhD student in Neural Engineering at Scuola Superiore Sant'Anna, Italy :brain::computer:. I hold a MSc and BSc in Electronic Engineering from the University of Udine, Italy, where I was also part of the honors program "Scuola Superiore".
 
-I am interested in computational and theoretical methods to better understand how to integrate neurons and computers. Always looking forward to new projects and ideas! You can reach me on:
+I am interested in computational and theoretical methods to better understand how to integrate the nervous system with artificial devices. Always looking forward to new projects and ideas! You can reach me on:
 
 <p align="center">
   <a href="https://github.com/claudioverardo">
